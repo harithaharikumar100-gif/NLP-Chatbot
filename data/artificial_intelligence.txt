@@ -1,0 +1,10 @@
+Artificial intelligence is the simulation of human intelligence by machines.
+AI enables computers to perform tasks that normally require human intelligence.
+These tasks include learning, reasoning, problem solving, and decision making.
+Artificial intelligence is widely used in healthcare, finance, robotics, and automation.
+AI systems can analyze large amounts of data and identify patterns.
+Examples of artificial intelligence include virtual assistants, recommendation systems, and self driving cars.
+Artificial intelligence can be divided into narrow AI and general AI.
+Narrow AI is designed to perform a specific task.
+General AI refers to machines with human level intelligence.
+AI is one of the most important technologies in modern computing.

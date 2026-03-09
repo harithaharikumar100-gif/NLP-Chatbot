@@ -1,0 +1,10 @@
+Natural language processing is a field of artificial intelligence that focuses on interaction between computers and human language.
+NLP enables computers to understand, interpret, and generate human language.
+NLP techniques are used in chatbots, translation systems, and voice assistants.
+Tokenization is the process of breaking text into smaller units such as words or sentences.
+Lemmatization converts words into their base form.
+Stopword removal eliminates common words such as the, is, and, and of.
+Sentiment analysis is an NLP technique used to determine the emotional tone of text.
+NLP is widely used in search engines and social media analysis.
+Speech recognition and text summarization are also NLP applications.
+NLP combines linguistics, machine learning, and deep learning.

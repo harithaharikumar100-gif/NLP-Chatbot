@@ -1,0 +1,10 @@
+Deep learning is a subset of machine learning.
+It is based on artificial neural networks with multiple layers.
+Deep learning models can automatically learn features from large datasets.
+Deep learning is widely used in computer vision, speech recognition, and natural language processing.
+Neural networks consist of layers of interconnected neurons.
+Popular deep learning architectures include convolutional neural networks and recurrent neural networks.
+Deep learning requires large amounts of data and powerful computing resources.
+Graphics processing units are commonly used to train deep learning models.
+Deep learning has enabled major advances in artificial intelligence.
+Many modern AI systems are powered by deep learning techniques.
