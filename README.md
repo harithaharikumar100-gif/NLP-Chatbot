@@ -61,7 +61,7 @@ The **data folder** contains knowledge documents that the chatbot reads to answe
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/NLP-Chatbot.git
+git clone https://github.com/harithaharikumar100-gif/NLP-Chatbot.git
 cd NLP-Chatbot
 ```
 
